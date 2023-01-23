@@ -1,0 +1,33 @@
+Steven L. Buchanan
+140 Masters Road
+Hixson, Tn 37343
+(423) 645-2462
+
+
+Objective:	Desire Senior Technical Developer\Architect position with career development and advancement opportunities.
+
+Education:	B.S., Computer and Information Science - Troy State University; Montgomery, AL.  Graduated Cum Laude in Fall 1988.
+
+Experience:	UNUM, Chattanooga, Tennessee
+10/95 -	Systems Consultant III\Director.  Technical Architect\Developer for Unum's Investment\Finance IT Department. Responsible for creating applications using C#, .Net, SQL Server, SSRS, SSIS, WinForms, MVC and Web API, Microsoft Access, and Excel. Over 24 plus years of providing office integration using Microsoft Office products. 21 plus years working with vendor software and integrating vendor packages into Unum's Investment\Finance area. I'm currently the senior technical architect\developer on an initiative to consolidate all financial feeds into Workday. This involves creating batch C# executables talking to a Web API web service layer calling out to Workday’s Public Web Services. In the past I have managed a staff of eight developers and performed all Human Resource duties that are required. Currently I'm designing, coding and directing the work of two developers.
+ 
+07/93 -		Millennium Computer Technology; Chattanooga, Tennessee
+10/95	Systems Analyst.  Developed applications for mainframe and client/server platforms using a variety of tools.  Created Microsoft Access front ends for mainframe DB2 and Oracle databases. Created batch SAS, COBOL 2, and Easytrieve Plus programs on the mainframe to process large amounts of DB2 and Oracle data.
+
+03/92 -		Martin Marietta Energy Systems; Oak Ridge, Tennessee
+07/93	Programmer\Analyst.  Project leader\developer for an on-line COBOL/DB2 system that tracked compliance to Department of Energy training regulations.  The application used the ISPF dialog manager to facilitate the data entry and report screens.  Personally implemented a SQL based Microsoft Access\Foxpro job stream on a distributed platform and reduced mainframe processing costs by 95 percent.  Performed all DBA responsibilities for the department.
+
+Developed a distributed based application to transmit Martin Marietta’s payroll directly to five different banking institutions.
+
+12/88 -		Savannah River Site; Aiken, South Carolina
+03/92		Westinghouse operating contractor beginning 04/89.
+		Du Pont operating contractor through 03/89.
+
+Programmer\Analyst.  Project leader\developer for a Natural 2/Adabas system to eliminate clerical voucher entry.  Analyzed current financial business procedures, documented new business requirements necessary to provide financial auditing, and developed detailed design specifications. Delegated tasks to one full time programmer.
+
+Lead support for the Project Cost Control System.  System support included ledger reconciliation, data transfer to nine labor and material reporting systems, and generation of batch reports.  Personally implemented JCL networks to allow on-line inquiries while reducing printed reports by three million lines. 
+
+12/84 -		Electrical Power Production Specialist/Electrician
+04/88		United States Air Force
+
+Skills:	SQL Server, SSRS, SSIS, .Net Framework, C#, HTML, Javascript, ASP.Net, MVC, Visual Basic, Microsoft Access, Excel, C, C++, Delphi, Foxpro, JCL, DB2, QMF, COBOL,  DOS, Workday. 
